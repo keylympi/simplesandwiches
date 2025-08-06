@@ -1,0 +1,8 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "simple_sandwiches:block/tomatoplantbottom",
+    "particle": "simple_sandwiches:block/tomatoplanttop"
+  },
+  "render_type": "cutout"
+}

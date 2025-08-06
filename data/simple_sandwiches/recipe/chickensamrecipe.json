@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bread",
+    "simple_sandwiches:grilledchicken",
+    "minecraft:fern",
+    "simple_sandwiches:tomato"
+  ],
+  "result": {
+    "id": "simple_sandwiches:chickensam",
+    "count": 1
+  }
+}

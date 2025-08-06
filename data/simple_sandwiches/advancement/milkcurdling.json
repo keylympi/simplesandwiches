@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "simple_sandwiches:curdledmilk"
+    },
+    "title": {
+      "translate": "advancements.milkcurdling.title"
+    },
+    "description": {
+      "translate": "advancements.milkcurdling.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "milkcurdling_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "simple_sandwiches:curdledmilk"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "minecraft:story/root"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "simple_sandwiches:fishfilletsam",
+    "simple_sandwiches:phillycheesesteak",
+    "simple_sandwiches:grilledchicken",
+    "simple_sandwiches:chickensam"
+  ]
+}
